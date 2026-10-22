@@ -1,4 +1,4 @@
 # gitProject
-my first &amp; original project
+my first camp; original project
 
 ## Project Notes:
